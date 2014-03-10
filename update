@@ -1,0 +1,4 @@
+update per CI copy:
+application/config/database.php update database schema
+../routes.php update $route['default_controller']
+application/controllers/[filename.php] change the class name to reflect the controller page name. must be the same value as the route

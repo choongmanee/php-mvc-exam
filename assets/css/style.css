@@ -1,0 +1,54 @@
+
+#container{
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+}
+
+label {
+	width: 150px;
+}
+
+.main {
+	display: block;
+	height: auto;
+	padding: 15px;
+}
+
+h2 {
+	color: white;
+	background-color: lightgreen;
+	border-radius: 10px;
+	padding: 10px;
+	text-align: center;
+}
+
+#quotable {
+	width: 49%;
+	display: inline-block;
+	height: 400px;
+	overflow: auto;
+	margin: auto;
+}
+
+#favorites {
+	width: 49%;
+	height: 300px;
+	display: inline-block;
+	vertical-align: top;
+	overflow: auto;
+	margin: auto;
+}
+
+.quote {
+}
+
+.favorite {
+}
+
+#newquote {
+	display: inline-block;
+	text-align: left;
+	vertical-align: top;
+	border-top: 1px solid black;
+	width: 100%;
+}

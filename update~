@@ -1,0 +1,3 @@
+update per CI copy:
+application/config/database.php update database schema
+../routes.php update $route['default_controller']
